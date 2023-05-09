@@ -1,0 +1,2 @@
+cd C:\Users\vladr\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts 
+pyuic5.exe -x C:\PROGRAMS\NTO\GUI\un.ui -o C:\PROGRAMS\NTO\GUI\un.py
